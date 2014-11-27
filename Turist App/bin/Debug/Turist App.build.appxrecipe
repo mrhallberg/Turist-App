@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER</Machine>
+    <WindowsUser>A</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>574e2fef-2c66-4d8c-bdf8-8e12a1a1f652</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.exe">
+      <PackagePath>Turist App.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel.png">
+      <PackagePath>Billeder\Hotel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Comwell.png">
+      <PackagePath>Billeder\Hotel_Comwell.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Prindsen.png">
+      <PackagePath>Billeder\Hotel_Prindsen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Scandic.png">
+      <PackagePath>Billeder\Hotel_Scandic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser.png">
+      <PackagePath>Billeder\Oplevelser.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Musicon.png">
+      <PackagePath>Billeder\Oplevelser_Musicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Rostorv.png">
+      <PackagePath>Billeder\Oplevelser_Rostorv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Vikingeskibsmuseum.png">
+      <PackagePath>Billeder\Oplevelser_Vikingeskibsmuseum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant.png">
+      <PackagePath>Billeder\Restaurant.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Jensens.png">
+      <PackagePath>Billeder\Restaurant_Jensens.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Prindsen.png">
+      <PackagePath>Billeder\Restaurant_Prindsen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Vivaldi.png">
+      <PackagePath>Billeder\Restaurant_Vivaldi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport.png">
+      <PackagePath>Billeder\Transport.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Bus.png">
+      <PackagePath>Billeder\Transport_Bus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Taxa.png">
+      <PackagePath>Billeder\Transport_Taxa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Tog.png">
+      <PackagePath>Billeder\Transport_Tog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Danish\Detaljer.xml">
+      <PackagePath>XML\Danish\Detaljer.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Danish\Oversigt.xml">
+      <PackagePath>XML\Danish\Oversigt.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Users.xml">
+      <PackagePath>XML\Users.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.xr.xml">
+      <PackagePath>Turist App.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,32 @@
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\App.g.i.cs
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\App.g.cs
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\View\MainPage.g.i.cs
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\View\MainPage.g.cs
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\XamlTypeInfo.g.cs
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\App.xaml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\App.xbf
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\XamlSaveStateFile.xml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\View\MainPage.xaml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\View\MainPage.xbf
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\App.xbf
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\View\MainPage.xbf
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.xr.xml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.exe
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.pdb
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\resources.pri
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\AppxManifest.xml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.build.appxrecipe
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\Turist App.exe
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\Turist App.pdb
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\priconfig.xml
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\priconfig.xml.intermediate
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\layout.resfiles
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\layout.resfiles.intermediate
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\resources.resfiles
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\resources.resfiles.intermediate
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\pri.resfiles
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\pri.resfiles.intermediate
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\qualifiers.txt
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\qualifiers.txt.intermediate
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\ProjectArchitectures.txt

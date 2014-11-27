@@ -1,1 +1,1 @@
-c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Turist App.csproj;neutral
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\Turist App.csproj;neutral

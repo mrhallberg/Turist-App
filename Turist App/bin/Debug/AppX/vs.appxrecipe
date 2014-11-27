@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>574e2fef-2c66-4d8c-bdf8-8e12a1a1f652</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>A535F8DD3799A9656E27DA1AC5CDDC3D3556562A589FEDE727AD712EB727D5A1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>574e2fef-2c66-4d8c-bdf8-8e12a1a1f652_1.0.0.0_neutral__j9v2x9sjwk42y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>574e2fef-2c66-4d8c-bdf8-8e12a1a1f652_j9v2x9sjwk42y!App</RegisteredUserModeAppID>
@@ -17,128 +17,132 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-27T12:35:54.118</Modified>
+      <Modified>2014-11-27T13:05:50.302</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.exe">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.exe">
       <PackagePath>Turist App.exe</PackagePath>
-      <Modified>2014-11-27T12:35:53.896</Modified>
+      <Modified>2014-11-27T13:24:03.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Hotel.png">
       <PackagePath>Billeder\Hotel.png</PackagePath>
       <Modified>2014-11-27T12:35:42.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Comwell.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Hotel_Comwell.png">
       <PackagePath>Billeder\Hotel_Comwell.png</PackagePath>
       <Modified>2014-11-27T12:35:42.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Prindsen.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Hotel_Prindsen.png">
       <PackagePath>Billeder\Hotel_Prindsen.png</PackagePath>
       <Modified>2014-11-27T12:35:42.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Hotel_Scandic.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Hotel_Scandic.png">
       <PackagePath>Billeder\Hotel_Scandic.png</PackagePath>
       <Modified>2014-11-27T12:35:43.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Oplevelser.png">
       <PackagePath>Billeder\Oplevelser.png</PackagePath>
       <Modified>2014-11-27T12:35:43.034</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Musicon.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Oplevelser_Musicon.png">
       <PackagePath>Billeder\Oplevelser_Musicon.png</PackagePath>
       <Modified>2014-11-27T12:35:43.037</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Rostorv.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Oplevelser_Rostorv.png">
       <PackagePath>Billeder\Oplevelser_Rostorv.png</PackagePath>
       <Modified>2014-11-27T12:35:43.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Oplevelser_Vikingeskibsmuseum.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Oplevelser_Vikingeskibsmuseum.png">
       <PackagePath>Billeder\Oplevelser_Vikingeskibsmuseum.png</PackagePath>
       <Modified>2014-11-27T12:35:43.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Restaurant.png">
       <PackagePath>Billeder\Restaurant.png</PackagePath>
       <Modified>2014-11-27T12:35:43.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Jensens.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Restaurant_Jensens.png">
       <PackagePath>Billeder\Restaurant_Jensens.png</PackagePath>
       <Modified>2014-11-27T12:35:43.061</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Prindsen.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Restaurant_Prindsen.png">
       <PackagePath>Billeder\Restaurant_Prindsen.png</PackagePath>
       <Modified>2014-11-27T12:35:43.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Restaurant_Vivaldi.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Restaurant_Vivaldi.png">
       <PackagePath>Billeder\Restaurant_Vivaldi.png</PackagePath>
       <Modified>2014-11-27T12:35:43.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\roskilde.png">
+      <PackagePath>Billeder\roskilde.png</PackagePath>
+      <Modified>2014-11-27T13:05:37.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Transport.png">
       <PackagePath>Billeder\Transport.png</PackagePath>
       <Modified>2014-11-27T12:35:43.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Bus.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Transport_Bus.png">
       <PackagePath>Billeder\Transport_Bus.png</PackagePath>
       <Modified>2014-11-27T12:35:43.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Taxa.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Transport_Taxa.png">
       <PackagePath>Billeder\Transport_Taxa.png</PackagePath>
       <Modified>2014-11-27T12:35:43.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\Billeder\Transport_Tog.png">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\Billeder\Transport_Tog.png">
       <PackagePath>Billeder\Transport_Tog.png</PackagePath>
       <Modified>2014-11-27T12:35:43.082</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Danish\Detaljer.xml">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\XML\Danish\Detaljer.xml">
       <PackagePath>XML\Danish\Detaljer.xml</PackagePath>
       <Modified>2014-11-27T12:13:39.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Danish\Oversigt.xml">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\XML\Danish\Oversigt.xml">
       <PackagePath>XML\Danish\Oversigt.xml</PackagePath>
       <Modified>2014-11-27T12:13:39.212</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\XML\Users.xml">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\XML\Users.xml">
       <PackagePath>XML\Users.xml</PackagePath>
       <Modified>2014-11-27T12:14:34.642</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2014-11-27T12:30:23.506</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\View\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\View\MainPage.xbf">
       <PackagePath>View\MainPage.xbf</PackagePath>
-      <Modified>2014-11-27T12:35:53.700</Modified>
+      <Modified>2014-11-27T13:24:03.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\Turist App.xr.xml">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.xr.xml">
       <PackagePath>Turist App.xr.xml</PackagePath>
-      <Modified>2014-11-27T12:30:23.432</Modified>
+      <Modified>2014-11-27T13:23:27.553</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-11-27T12:35:53.992</Modified>
+      <Modified>2014-11-27T13:05:50.164</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

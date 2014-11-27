@@ -30,3 +30,35 @@ c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug
 c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\qualifiers.txt.intermediate
 c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\a\documents\visual studio 2013\Projects\Turist App\Turist App\obj\Debug\ProjectArchitectures.txt
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\App.xbf
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\View\MainPage.xbf
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.xr.xml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.exe
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.pdb
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\resources.pri
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\AppxManifest.xml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\bin\Debug\Turist App.build.appxrecipe
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\App.g.i.cs
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\App.g.cs
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\View\MainPage.g.i.cs
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\View\MainPage.g.cs
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\App.xaml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\View\MainPage.xaml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\App.xbf
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\View\MainPage.xbf
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\XamlSaveStateFile.xml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\Turist App.exe
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\Turist App.pdb
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\priconfig.xml
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\priconfig.xml.intermediate
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\layout.resfiles
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\layout.resfiles.intermediate
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\resources.resfiles
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\resources.resfiles.intermediate
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\pri.resfiles
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\pri.resfiles.intermediate
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\qualifiers.txt
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\qualifiers.txt.intermediate
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\A\Documents\GitHub\Turist-App\Turist App\obj\Debug\ProjectArchitectures.txt
